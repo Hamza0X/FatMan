@@ -7,7 +7,7 @@ The Domain Security Assessment Toolkit is a Bash script aiding security pros in 
 - Technology Detection
 - Endpoint Compilation
 - Vulnerability Testing
-## Features
+## requirement
 - For Subdomain Enumeration(sublist3r,amass,assetfinder,dnsdumpster,crt.sh,favfreak,)
 - Search from email addresses from a domain (theharvester)
 - For Directory enumeration(gobuster)
