@@ -15,8 +15,6 @@ The Domain Security Assessment Toolkit is a Bash script aiding security pros in 
 - ```bash
   ./domain_security_assessment.sh example.com
 ```
-- Vulnerability Testing
-```
-
+-Review the generated reports and output files in the specified output directory.
 
 
