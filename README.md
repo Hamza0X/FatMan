@@ -13,7 +13,7 @@ The Domain Security Assessment Toolkit is a Bash script aiding security pros in 
 - For Directory enumeration(gobuster)
 - For Technology enumeration (wappalyzer)
 - Endpoint Fetching (gau)
-- Vulnerability Testing(Sqlmap)
+- Vulnerability Testing(Sqlmap,arachni,security header check through anarchi)
 ## Usage
 - Clone the repository to your local environment.
 - Ensure all dependencies and required tools are installed.
