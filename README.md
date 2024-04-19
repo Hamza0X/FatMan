@@ -12,7 +12,7 @@ The Domain Security Assessment Toolkit is a Bash script aiding security pros in 
 - Clone the repository to your local environment.
 - Ensure all dependencies and required tools are installed.
 - Execute the script with the target domain as the argument.
--```bash
+```bash
   git clone https://link-to-project
 ```
 -Review the generated reports and output files in the specified output directory.
