@@ -3,8 +3,8 @@ The Domain Security Assessment Toolkit is a Bash script aiding security pros in 
 
 ## Features
 - Subdomain Enumeration
-- Directory Enumeration
-- Technology Detection
+- DNS Zone Transfer Checking
+- Subdomain_Takeover
 - Endpoint Compilation
 - Vulnerability Testing
 ## requirement
