@@ -5,14 +5,14 @@ The Domain Security Assessment Toolkit is a Bash script aiding security pros in 
 - Subdomain Enumeration
 - DNS Zone Transfer Checking
 - Subdomain_Takeover
-- Endpoint Compilation
-- Vulnerability Testing
+- Waf Detection
+- Port Scanning
 ## requirement
-- For Subdomain Enumeration(sublist3r,amass,assetfinder,dnsdumpster,crt.sh,favfreak,)
-- Search from email addresses from a domain (theharvester)
-- For Directory enumeration(gobuster)
-- For Technology enumeration (wappalyzer)
-- Endpoint Fetching (gau)
+- For Subdomain Enumeration(assetfinder,crt.sh,gobuster,findomain,subfinder)
+- Dns zone Transfer checking using shell code
+- Subdomain Takeover using subzy
+- waf detection using wafw00f in each subdomain
+- run port scan first using naabu and after that we use nmap
 - Vulnerability Testing(Sqlmap,arachni,security header check through anarchi)
 ## Usage
 - Clone the repository to your local environment.
